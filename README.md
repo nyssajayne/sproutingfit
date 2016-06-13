@@ -3,8 +3,6 @@ sproutingfit
 
 Sprouting Fit Wordpress Theme Files
 
-View active site at http://www.sproutingfit.com.au
-
 The business owners required a website to be developed and created.  They already had assets such as logos and images.
 We sketched out ideas together using pen and paper, until a wireframe was created.  This physical wireframe was then translated into a HTML prototype, before being converted into a custom Wordpress template.
 
